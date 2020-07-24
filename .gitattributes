@@ -7,4 +7,4 @@
 /core/libdeno/* symlink=dir
 /cli/tests/symlink_to_subdir symlink=dir
 
-deno/cli/tsc/00_typescript.js linguist-vendored
+/cli/tsc/00_typescript.js linguist-vendored
