@@ -7,4 +7,6 @@
 /core/libdeno/* symlink=dir
 /cli/tests/symlink_to_subdir symlink=dir
 
+# Tell github that typescrtipt.js is a vendored file.
+# Doesn't include it in the language statistics.
 /cli/tsc/00_typescript.js linguist-vendored
